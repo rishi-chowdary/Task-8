@@ -1,0 +1,7 @@
+1. Sales performance showed a strong upward trend over time, with noticeable peaks during the last quarter of each year, especially in November and December — indicating seasonal buying patterns.
+
+2. The West region consistently led in total sales, followed by the East. These regions are key contributors to revenue and should be prioritized for marketing and supply chain optimization.
+
+3. Among product categories, Technology generated the highest sales, while Furniture and Office Supplies showed lower but more consistent performance across regions.
+
+4. Profit margins varied significantly across categories and regions. While Technology sales were high, Furniture had relatively lower profitability, suggesting the need for cost control or pricing review in that segment.
